@@ -45,7 +45,7 @@ local Label = TutorialTab:CreateLabel("Or Else Its Not Going To Work", 448336245
 
 local Section = TutorialTab:CreateSection("instruction")
 local Label = TutorialTab:CreateLabel("First Turn Off All Settings From Delta Settings", 4483362458, Color3.fromRGB(255, 255, 255), false) -- Title, Icon, Color, IgnoreTheme
-local Label = TutorialTab:CreateLabel("Second Rejoin The Game", 4483362458, Color3.fromRGB(255, 255, 255), false) -- Title, Icon, Color, IgnoreTheme
+local Label = TutorialTab:CreateLabel("Second Restart Roblox", 4483362458, Color3.fromRGB(255, 255, 255), false) -- Title, Icon, Color, IgnoreTheme
 local Label = TutorialTab:CreateLabel("Third Enjoy The Script!", 4483362458, Color3.fromRGB(255, 255, 255), false) -- Title, Icon, Color, IgnoreTheme
 local Label = TutorialTab:CreateLabel("Make Sure You Do All Step Correctly", 4483362458, Color3.fromRGB(255, 255, 255), false) -- Title, Icon, Color, IgnoreTheme
 local Label = TutorialTab:CreateLabel("Or Else Its Not Going To Work", 4483362458, Color3.fromRGB(255, 255, 255), false) -- Title, Icon, Color, IgnoreTheme
